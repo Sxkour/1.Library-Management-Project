@@ -5,7 +5,7 @@ int main()
     int arr[100] = { 0 };
     int i, a, pos, n = 5;
 
-    // initial array of size 10
+    // initial array of size 5
     for (i = 0; i < 5; i++)
         arr[i] = i + 1;
 
